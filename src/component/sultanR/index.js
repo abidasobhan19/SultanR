@@ -104,7 +104,7 @@ const SultanR = () => {
         of the country.
       </p>
       <p>
-        You may send us an email at sohel.ahmed2178@gmail.com with the words
+        You may send us an email at info@forbitbd.com with the words
         “Privacy Policy in Bangladesh” in the subject line.
       </p>
     </div>
