@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.93f5f2bb.chunk.css",
-    "main.js": "/static/js/main.4fab78cd.chunk.js",
-    "main.js.map": "/static/js/main.4fab78cd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.de76f245.js",
-    "runtime-main.js.map": "/static/js/runtime-main.de76f245.js.map",
-    "static/js/2.d3558c3b.chunk.js": "/static/js/2.d3558c3b.chunk.js",
-    "static/js/2.d3558c3b.chunk.js.map": "/static/js/2.d3558c3b.chunk.js.map",
-    "static/js/3.89211fb9.chunk.js": "/static/js/3.89211fb9.chunk.js",
-    "static/js/3.89211fb9.chunk.js.map": "/static/js/3.89211fb9.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.93f5f2bb.chunk.css.map": "/static/css/main.93f5f2bb.chunk.css.map",
-    "static/js/2.d3558c3b.chunk.js.LICENSE.txt": "/static/js/2.d3558c3b.chunk.js.LICENSE.txt"
+    "main.css": "/SultanR/static/css/main.93f5f2bb.chunk.css",
+    "main.js": "/SultanR/static/js/main.4fab78cd.chunk.js",
+    "main.js.map": "/SultanR/static/js/main.4fab78cd.chunk.js.map",
+    "runtime-main.js": "/SultanR/static/js/runtime-main.c16dd5bd.js",
+    "runtime-main.js.map": "/SultanR/static/js/runtime-main.c16dd5bd.js.map",
+    "static/js/2.d3558c3b.chunk.js": "/SultanR/static/js/2.d3558c3b.chunk.js",
+    "static/js/2.d3558c3b.chunk.js.map": "/SultanR/static/js/2.d3558c3b.chunk.js.map",
+    "static/js/3.89211fb9.chunk.js": "/SultanR/static/js/3.89211fb9.chunk.js",
+    "static/js/3.89211fb9.chunk.js.map": "/SultanR/static/js/3.89211fb9.chunk.js.map",
+    "index.html": "/SultanR/index.html",
+    "static/css/main.93f5f2bb.chunk.css.map": "/SultanR/static/css/main.93f5f2bb.chunk.css.map",
+    "static/js/2.d3558c3b.chunk.js.LICENSE.txt": "/SultanR/static/js/2.d3558c3b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.de76f245.js",
+    "static/js/runtime-main.c16dd5bd.js",
     "static/js/2.d3558c3b.chunk.js",
     "static/css/main.93f5f2bb.chunk.css",
     "static/js/main.4fab78cd.chunk.js"
